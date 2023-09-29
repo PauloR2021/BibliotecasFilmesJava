@@ -17,7 +17,7 @@ public class BancoDeDados {
 	public void conectar() {
 		String servidor = "jdbc:mysql://localhost:3306/bibliotecafilmes";
 		String usuario = "root";
-		String senha = "Pr_16112001";
+		String senha = "##############";
 		String driver = "com.mysql.jdbc.Driver";
 		
 		try {
